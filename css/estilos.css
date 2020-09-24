@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+<link href="https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap" rel="stylesheet">
+*{
+
+	margin: 0;
+	padding: 0;
+
+}
+
+body{
+	font-family: verdana;
+	background: #F8F5F5;
+}
+
+
+
+main{
+
+			width: 80%;
+			height: 700px; 
+			background-color: #FFFFFF;
+			margin-left: auto;
+			margin-right: auto;
+
+}
+
+
+
+header{
+
+		background: #FFFFFF;
+		overflow: hidden;
+		width: 100%;
+		height: 120px;
+
+
+
+}
+
+.logo{
+		float: left;
+		width: 230px;
+		margin-left: 0%;
+		margin-top: 0%;
+
+}
+
+
+
+.menu{ float: right;
+		padding: 30px;
+
+
+ }
+
+ .menu ul li{
+ 			float: left;
+ 			list-style: none;
+
+ }
+
+ .menu ul li a{
+ 		color:#000000;
+ 		padding: 15px;
+ 		text-decoration: none;
+font-family: 'Cabin Sketch', cursive;
+		font-size: 20px
+
+
+
+ }
+
+ .menu li a:hover{ background: #F8F5F5;  }
+
+ .foto{
+ 			width: 100%;
+
+
+ }
+
+
+ section{
+
+			width: 100%;
+			height: 527px; 
+			background-color: #FFFFFF;	
+			
+}
+
+ footer{
+ 		background-color: #FFFFFF;
+ 		overflow: hidden;
+ 		height: 53px;
+
+
+ }
+
+
+.mundo{
+	width:80%;
+	height: 450px;
+	margin-top: 1px;
+}
+
+.cora{
+			color: #8D8989;
+			padding: 1px;
+			
+
+}
+
+.nuestrahistoria{
+
+			color: #8D8989;
+			padding: 20px;
+			font-size: 30px;
+
+}
+
+.nosotros{
+
+			color: #8D8989;
+			padding: 9px;
+			font-size: 30px;
+			margin-left: 2px;
+			text-align:center;
+			
+}
+
+.creamos{
+
+			color: #8D8989;
+			padding: 21px;
+			font-size: 18px;
+			margin-left: 95px;
+			text-align: justify;
+			width: 80%;
+			
+}
+
+.mate{
+		width:100%;
+	height: 200px;
+	margin-top: 15px;
+
+}
+
+.izquierda{
+			float: left;
+			width: 550px;
+			padding: 8px;
+			font-size: 13px;
+			margin-top: 13px;
+			color: #8D8989;
+			margin-left: 2px;
+
+} 
+
+.centro{
+			float: left;
+			width: 540px;
+			margin-left: 310px;
+			margin-top: -66px;
+}
+
+
+.derecha{
+
+			float: right;
+			margin-top: -50px;
+			margin-right: 7px;
+}
+
+.juguetes{  width:100%;
+	height: 200px;
+	margin-top: 15px;}
+
+.j {	margin-top: 10px;
+		margin-left: 20px; }
+
+.for{ 		float: left;
+			padding: 8px;
+			font-size: 20px;
+			margin-top: 13px;
+			color: #8D8989;
+			margin-left: 90px; }
+
+
+.kni{		float: left;
+			padding: 8px;
+			font-size: 20px;
+			margin-top: 13px;
+			color: #8D8989;
+			margin-left: 120px}
+
+.casa{		float: left;
+			padding: 8px;
+			font-size: 20px;
+			margin-top: 13px;
+			color: #8D8989;
+			margin-left: 90px}
+
+.auto{		float: left;
+			padding: 8px;
+			font-size: 20px;
+			margin-top: 13px;
+			color: #8D8989;
+			margin-left: 50px}
+
+.kit {		float: left;
+			padding: 8px;
+			font-size: 19px;
+			margin-top: 13px;
+			color: #8D8989;
+			margin-left: 16px;
+			
+
+}
